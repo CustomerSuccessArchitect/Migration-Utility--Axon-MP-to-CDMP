@@ -1,0 +1,7 @@
+axon_login_url = http://inaxoncst01.informatica.com:9999/
+axon_username = admin@informatica.com
+axon_password = Changeme@123
+Cloud_Login_URL = https://dm-us.informaticacloud.com
+Cloud_Username = sjain_cst
+Cloud_Password = W2infa080#
+CDMP_URL = https://cdgc-api.dm-us.informaticacloud.com
